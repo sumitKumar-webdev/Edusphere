@@ -1,2 +1,1 @@
-# Edusphere
-Edusphere the school management system.
+# school management system.
